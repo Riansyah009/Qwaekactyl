@@ -5,12 +5,12 @@
     "port": 2554,
     "maintenance": false,
 
-    "sitekey": "",
-    "secretkey": "",
+    "sitekey": "6LeLCNkmAAAAAFbN1EHYvcvnxeP3Bbkt7FvTXzND",
+    "secretkey": "6LeLCNkmAAAAAEBfoph4ZBx21_YPHPY7WAuLg7NI",
     "note": "You Can Get These From https://www.google.com/recaptcha/admin"
   },
   "pterodactyl": {
-    "domain": "",
+    "domain": "private.ryanerwinstore.icu",
     "key": ""
   },
   "google_ads": {
